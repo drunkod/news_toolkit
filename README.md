@@ -20,3 +20,12 @@ If you're just getting started with Flutter, we recommend first developing famil
 ## Get Started
 
 To get started, see the official documentation at https://flutter.github.io/news_toolkit.
+
+set JDK version 15:
+https://phoenixnap.com/kb/fedora-install-java
+
+flutter/news_toolkit/flutter_news_example/api/pubspec.yaml
+dart_frog: ^0.3.3
+
+flutter/news_toolkit/flutter_news_example/packages/authentication_client/firebase_authentication_client/pubspec.yaml
+google_sign_in: ^5.0.5
